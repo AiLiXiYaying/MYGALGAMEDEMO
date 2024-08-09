@@ -1,2 +1,3 @@
 # MYGALGAMEDEMO
 galgame_demo测试
+galgame_project_bustdebuginfo与unitycrashhandler64是pc端的下载，使用方法：下载，然后全解压，一定要在同一文件目录下
